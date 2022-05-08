@@ -1,13 +1,13 @@
 
-#  Cineflix Website Clone
+#  Galatic Website Design
 
-Clone of cineflix website
+When you left click the mouse button and move the cursor than the dots changes into waves according to the speed of the cursor.
 
 
 
 ## 💻 Demo
 
-[Cineflix Clone Website Link](https://cineflix-movie-website-by-tushar.netlify.app/)
+[Website Link](https://galatic-background-design-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
@@ -15,7 +15,7 @@ Clone of cineflix website
 Clone the project
 
 ```bash
-  git clone https://github.com/Tushar-goyal-2712/Cineflix-Website-clone.git
+  git clone https://github.com/Tushar-goyal-2712/Galatic-Background.git
 ```
 
 Install node_module dependencies
